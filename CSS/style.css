@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: ´Rajdhani´,sans-serif;
+    background-color: #ffffffec;
+}
+
+#Barra_menu {
+    display: flex;
+    background-color: #000000;
+    border: 1px solid #000000;
+    height: 62px;
+    line-height: 62px;
+}
+
+.botones_menu {
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+    font-family: monospace;
+}
+
+#imagen_principal{
+    padding: 100px;
+    display: flex;
+}
+.texto_menu{
+    padding-left: 5%;
+    padding-top: 150px;
+}
+
+
