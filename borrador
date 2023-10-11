@@ -1,0 +1,30 @@
+<div class="texto_imagen2">
+    <h1> Conoce el nuevo lamborghini revuelto</h1>
+        <br>
+        <br>
+        <h3> La emoción que proporciona el Revuelto se alcanza hasta su punto máximo gracias a un tren de potencia
+            que genera 1015 CV en total, combinando la potencia de un flamante motor de combustión interna de 12
+            cilindros con tres motores eléctricos de alta densidad y un innovador cambio electrónico transversal de
+            doble embrague. El poder de la hibridación se aprovecha para llevar las prestaciones y las emociones al
+            volante a un nivel sin precedentes.
+        </h3>
+    <div id="imagen_secundaria">
+        <img width="800px" height="400px" alt="lamborghini" src="../Multimedia/lamborghini revuelto_modelos.jpg">
+    </div>
+</div>
+
+
+class="texto_imagen2"
+id="imagen_secundaria"
+
+
+<img width="800px" height="400px" alt="lamborghini" src="../Multimedia/lamborghini revuelto_modelos.jpg">
+
+<h1> Conoce el nuevo lamborghini revuelto</h1>
+        <br>
+        <br>
+        <h3> La emoción que proporciona el Revuelto se alcanza hasta su punto máximo gracias a un tren de potencia
+            que genera 1015 CV en total, combinando la potencia de un flamante motor de combustión interna de 12
+            cilindros con tres motores eléctricos de alta densidad y un innovador cambio electrónico transversal de
+            doble embrague. El poder de la hibridación se aprovecha para llevar las prestaciones y las emociones al
+            volante a un nivel sin precedentes.</h3>
