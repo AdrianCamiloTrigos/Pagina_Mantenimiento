@@ -31,3 +31,52 @@
     text-decoration: none;
     color: #000000;
 }
+.contenedor{
+    flex-direction: column;
+}
+.imagen_principal{
+    padding-top: 30PX;
+}
+
+.parte1{
+padding-top: 50px;
+}
+
+.imagen1{
+display: flex;
+padding-left: 200px;
+padding-top: 100px;
+}
+.texto_imagen1{
+    padding-left: 100px;
+    padding-right: 200px;
+    padding-top: 100px;
+}
+.parte2{
+    padding-top: 100px;
+    display: flex;
+}
+.imagen2{
+    padding-left: 10px;
+    padding-right: 170px;
+}
+.texto_imagen2{
+    padding-left: 200px;
+    padding-top: 80px;
+    padding-right: 100px;
+}
+.parte3{
+
+padding-bottom: 100PX;
+
+}
+.imagen3{
+    display: flex;
+    padding-left: 210px;
+    padding-top: 100px;
+}
+.texto_imagen3{
+    padding-left: 100px;
+    padding-right: 200px;
+    padding-top: 100px;
+}
