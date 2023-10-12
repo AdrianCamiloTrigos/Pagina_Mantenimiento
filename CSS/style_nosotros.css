@@ -1,6 +1,12 @@
 *{
     margin: 0px;
 }
+
+body{
+    background-color: #ffffffe3;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 .Barra_menu{
     display: flex ;
     background-color: #000000;
@@ -9,6 +15,7 @@
     line-height: 80px;
     padding-left: 20px;
 }
+
 .botones_menu{
     padding: 5px;
     text-decoration:none;
@@ -16,9 +23,15 @@
     font-family:monospace;
     padding-left: 15px;
 }
+
 .logo{
     margin-top: 10px;
 }
+
+.contenedor{
+    flex-direction: column ;
+    }
+    
 .menu{
     margin-top: 30px;
     margin-left: 60px;
@@ -27,10 +40,6 @@
 .menu2{
     text-decoration: none;
     color: black;
-}
-
-.contenedor{
-flex-direction: column ;
 }
 
 .parte1{
@@ -63,10 +72,12 @@ padding-top: 150px;
     padding-left: 100px;
     line-height: 200px;
 }
+
 .texto_imagen3{
     padding-left: 100px;
     line-height: 200px;
 }
+
 .texto_imagen4{
     padding-left: 100px;
     line-height: 200px;
